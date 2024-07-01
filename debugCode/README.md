@@ -9,3 +9,12 @@ Includes a debugger statement to pause code execution at this point for debuggin
 Multiplies two input numbers (a and b) and returns the result.
 displayResult() Function:
 Displays the result of the multiplication or an error message in a designated paragraph element (resultElement) on the webpage.
+
+Practice task
+You need to perform arithmetic operations such as addition, multiplication, and division simultaneously using the same function.
+
+Additionally, you need to check the flow of the code, which will depend on the arithmetic operation you are performing first.
+
+Also, try assigning one value in the form of characters and observe how this value is displayed using the debugger.
+
+Previous
